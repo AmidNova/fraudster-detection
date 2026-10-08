@@ -1,0 +1,13 @@
+# Data (StrataScratch dataset, not redistributed — see README)
+*.csv
+
+# Local-only material
+local/
+rapport/
+
+# Environment / tooling
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.vscode/
+.idea/
