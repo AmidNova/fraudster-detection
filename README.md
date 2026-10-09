@@ -10,7 +10,7 @@ Data science take-home assignment from StrataScratch.
 
 **Result:** a Gradient Boosting model catches **53 of 59 fraudsters** in the test set (recall 0.90), with a PR-AUC of **0.86** where random guessing gives 0.03.
 
-📓 [Read the notebook](https://nbviewer.org/github/AmidNova/fraudster-detection/blob/main/fraud_detection.ipynb) (rendered on nbviewer, nothing to install)
+📓 [Read the notebook](fraud_detection.ipynb) (rendered by GitHub, nothing to install)
 
 ![Test set results](assets/test_evaluation.png)
 
